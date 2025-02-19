@@ -17,28 +17,28 @@ i'm Moraevx
 Persiapkan Sistem
 Pastikan sistem Anda sudah terinstal Python dan pip. Jika belum, jalankan perintah berikut:
 
-      ```
+      ```bash
         sudo apt update
         sudo apt install python3 python3-pip
       ```
-      ``` 
+      ``` bash
       sudo apt install libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 \
       libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 \
       libxfixes3 libxrandr2 libgbm1 libasound2
       ```
-      ``` 
+      ``` bash
       sudo apt install pyfiglet
       ```
-      ``` 
+      ``` bash
       pip install playwright
       ```
-      ``` 
+      ``` bash
       playwright install
       ```
-      ``` 
+      ``` bash
       pip install colorama
       ```
-      ``` 
+      ``` bash
       pip install pyfiglet
       ```
 
