@@ -24,13 +24,13 @@ i'm Moraevx
 ## Persiapan
 
 Persiapkan Sistem  
-```
-pip install colorama pyfiglet
-```
-```
-pip install playwright
-python -m playwright install
-```
+>```
+>pip install colorama pyfiglet
+>```
+>```
+>pip install playwright
+>python -m playwright install
+>```
 ## Ganti file `config.json` dan `proxies.txt`
 
 
