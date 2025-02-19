@@ -33,6 +33,9 @@ Persiapkan Sistem
 >```
 ### Ganti file `config.json` dan `proxies.txt`
 
+1. Ganti file `config.json`
+   >
+
 
 
 
