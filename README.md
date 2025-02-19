@@ -35,30 +35,30 @@ Persiapkan Sistem
 
 1. Ganti file `config.json`
    ```
-  {
-     "akun1":{
-      "trust:cache:timestamp": "{\"timestamp\":xxxxxxxxxx}",
-      "xion-authz-granter-account": "YOUR_ACCOUNT_ADDRESS",
-      "delay": "xxxxxxxxx",
-      "converted": "true",
-      "ethereum-https://testnet.xionmarkets.com": "{\"chainId\":\"0x465\"}",
-      "isWhitelist": "false",
-      "loglevel": "SILENT",
-      "xion-authz-temp-account": "YOUR_ENCRYPTED_WALLET_DATA",
-      "binance-https://testnet.xionmarkets.com": "{}"
-   },
-      "akun1":{
-      "trust:cache:timestamp": "{\"timestamp\":xxxxxxxxxx}",
-      "xion-authz-granter-account": "YOUR_ACCOUNT_ADDRESS",
-      "delay": "xxxxxxxxx",
-      "converted": "true",
-      "ethereum-https://testnet.xionmarkets.com": "{\"chainId\":\"0x465\"}",
-      "isWhitelist": "false",
-      "loglevel": "SILENT",
-      "xion-authz-temp-account": "YOUR_ENCRYPTED_WALLET_DATA",
-      "binance-https://testnet.xionmarkets.com": "{}"
-   }
-  }
+    {
+       "akun1":{
+        "trust:cache:timestamp": "{\"timestamp\":xxxxxxxxxx}",
+        "xion-authz-granter-account": "YOUR_ACCOUNT_ADDRESS",
+        "delay": "xxxxxxxxx",
+        "converted": "true",
+        "ethereum-https://testnet.xionmarkets.com": "{\"chainId\":\"0x465\"}",
+        "isWhitelist": "false",
+        "loglevel": "SILENT",
+        "xion-authz-temp-account": "YOUR_ENCRYPTED_WALLET_DATA",
+        "binance-https://testnet.xionmarkets.com": "{}"
+     },
+        "akun1":{
+        "trust:cache:timestamp": "{\"timestamp\":xxxxxxxxxx}",
+        "xion-authz-granter-account": "YOUR_ACCOUNT_ADDRESS",
+        "delay": "xxxxxxxxx",
+        "converted": "true",
+        "ethereum-https://testnet.xionmarkets.com": "{\"chainId\":\"0x465\"}",
+        "isWhitelist": "false",
+        "loglevel": "SILENT",
+        "xion-authz-temp-account": "YOUR_ENCRYPTED_WALLET_DATA",
+        "binance-https://testnet.xionmarkets.com": "{}"
+     }
+    }
   ```
 
 
