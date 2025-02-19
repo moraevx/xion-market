@@ -35,7 +35,7 @@ Persiapkan Sistem
 
 1. Ganti file `config.json`
    
-```
+  ```
     {
        "akun1":{
         "trust:cache:timestamp": "{\"timestamp\":xxxxxxxxxx}",
@@ -60,7 +60,7 @@ Persiapkan Sistem
         "binance-https://testnet.xionmarkets.com": "{}"
      }
     }
-```
+  ```
 
 
 
