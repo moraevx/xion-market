@@ -38,7 +38,7 @@ Persiapkan Sistem
    ```
    nano config.json
    ```
-   
+   Dengan format :
 >```
 >{
 >  "akun1":{
@@ -71,6 +71,7 @@ Persiapkan Sistem
    ```
    nano proxies.txt
    ```
+   Dengan format :
 >```
 >http://username1:password1@proxy1:port1
 >http://username2:password2@proxy2:port2
