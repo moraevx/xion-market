@@ -33,7 +33,7 @@ Persiapkan Sistem
 >```
 ### Ganti file `config.json` dan `proxies.txt`
 
-1. Ganti file `config.json`
+1. Ganti file `config.json` dengan akun kalian
    
 >```
 >{
@@ -62,6 +62,11 @@ Persiapkan Sistem
 >}
 >```
 
-
+2. Ganiti `proxies.txt` ( opsional )
+>```
+>http://username1:password1@proxy1:port1
+>http://username2:password2@proxy2:port2
+>http://username3:password3@proxy3:port3
+>```
 
 
