@@ -14,23 +14,25 @@ i'm Moraevx
 
 ## Clone Repositor
 
-```
-git clone https://github.com/moraevx/xion-market.git
-```
-```
-cd xion-market
-```
+>```
+>git clone https://github.com/moraevx/xion-market.git
+>```
+>```
+>cd xion-market
+>```
 
 ## Persiapan
 
 Persiapkan Sistem  
 ```
-pip install playwright colorama pyfiglet
+pip install colorama pyfiglet
 ```
 ```
 pip install playwright
 python -m playwright install
 ```
+## Ganti file `config.json` dan `proxies.txt`
+
 
 
 
