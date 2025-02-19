@@ -2,7 +2,7 @@
 Proyek ini hanya untuk experimen dan edukasi semata, gunakan dengan bijak. kami tidak bertanggung jawab apabila proyek ini digunakan untuk tujuan yang tidak tepat.
 **Gunakan dengan bijak** kami tidak bertanggung jawab apa bila akun yang anda gunakan di tangguhkan sementara atau di blokir secara permanet.
 
-##Fitur
+## Fitur
 - Otomatis beli di market
 - Otomatis cek salo
 - Multi akun
