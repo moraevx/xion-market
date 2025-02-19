@@ -17,10 +17,10 @@ i'm Moraevx
 Persiapkan Sistem
 Pastikan sistem Anda sudah terinstal Python dan pip. Jika belum, jalankan perintah berikut:
 
-      ``bash
-        sudo apt update
-        sudo apt install python3 python3-pip
-      ```
+```
+sudo apt update
+sudo apt install python3 python3-pip
+```
       
       ```bash
       sudo apt install libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 \
