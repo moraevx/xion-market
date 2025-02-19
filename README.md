@@ -65,6 +65,7 @@ Persiapkan Sistem
 >  }
 >}
 >```
+>---
 
 2. Ganiti `proxies.txt` ( opsional ) :
 
