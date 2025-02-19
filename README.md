@@ -12,35 +12,26 @@ i'm Moraevx
 
 **Terima Kasih**
 
+## Clone Repositor
+
+```
+git clone https://github.com/moraevx/xion-market.git
+```
+```
+cd xion-market
+```
+
 ## Persiapan
 
-Persiapkan Sistem
-Pastikan sistem Anda sudah terinstal Python dan pip. Jika belum, jalankan perintah berikut:
-
+Persiapkan Sistem  
 ```
-sudo apt update
-sudo apt install python3 python3-pip
-```
-```
-sudo apt install libnss3 libnspr4 libatk1.0-0 libatk-bridge2.0-0 \
-libcups2 libdrm2 libxkbcommon0 libxcomposite1 libxdamage1 \
-libxfixes3 libxrandr2 libgbm1 libasound2
-```    
-```
-sudo apt install pyfiglet
+pip install playwright colorama pyfiglet
 ```
 ```
 pip install playwright
-```   
-```
-playwright install
-```
-```bash
-pip install colorama
-```   
-```bash
-pip install pyfiglet
+python -m playwright install
 ```
 
-## Clone Repositor
+
+
 
