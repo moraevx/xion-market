@@ -33,7 +33,11 @@ Persiapkan Sistem
 >```
 ### Ganti file `config.json` dan `proxies.txt`
 
-1. Ganti file `config.json` dengan akun kalian
+1. Ganti file `config.json` dengan ***local storage data*** anda :
+
+   ```
+   nano config.json
+   ```
    
 >```
 >{
@@ -48,7 +52,7 @@ Persiapkan Sistem
 >    "xion-authz-temp-account": "YOUR_ENCRYPTED_WALLET_DATA",
 >    "binance-https://testnet.xionmarkets.com": "{}"
 >  },
->  "akun1":{
+>  "akun2":{
 >    "trust:cache:timestamp": "{\"timestamp\":xxxxxxxxxx}",
 >    "xion-authz-granter-account": "YOUR_ACCOUNT_ADDRESS",
 >    "delay": "xxxxxxxxx",
@@ -62,11 +66,24 @@ Persiapkan Sistem
 >}
 >```
 
-2. Ganiti `proxies.txt` ( opsional )
+2. Ganiti `proxies.txt` ( opsional ) :
+
+   ```
+   nano proxies.txt
+   ```
 >```
 >http://username1:password1@proxy1:port1
 >http://username2:password2@proxy2:port2
 >http://username3:password3@proxy3:port3
 >```
 
+## Cara mencari local ***storage data***
+> Pastikan anda sudah login
+> 1. Buka [XionMarkets Testnet](https://testnet.xionmarkets.com) di Chrome.
+> 2. Tekan `F12` untuk membuka **Developer Tools**.
+  3. Pada menu **Console** cari dengan perintah berikut:
+>    ```js
+>    console.log(JSON.stringify(localStorage, null, 2));
+>    ```
+> 4. Copy dan paste output ke `config.json`.
 
