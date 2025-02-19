@@ -12,6 +12,8 @@ i'm Moraevx
 
 **Terima Kasih**
 
+# Persiapan
+
 1. Persiapkan Sistem
 Pastikan sistem Anda sudah terinstal Python dan pip. Jika belum, jalankan perintah berikut:
 
