@@ -12,7 +12,7 @@ i'm Moraevx
 
 **Terima Kasih**
 
-# Clone Repositor
+### Clone Repositor
 
 >```
 >git clone https://github.com/moraevx/xion-market.git
@@ -21,7 +21,7 @@ i'm Moraevx
 >cd xion-market
 >```
 
-# Persiapan
+### Persiapan
 
 Persiapkan Sistem  
 >```
@@ -31,7 +31,7 @@ Persiapkan Sistem
 >pip install playwright
 >python -m playwright install
 >```
-# Ganti file `config.json` dan `proxies.txt`
+### Ganti file `config.json` dan `proxies.txt`
 
 
 
